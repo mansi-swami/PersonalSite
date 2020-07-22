@@ -1,0 +1,22 @@
+body {
+    background-color: floralwhite ;
+   }
+   h1 {
+       color: hotpink;
+
+   }
+   h3 {
+    color:hotpink;
+
+   }
+  hr {
+      border-style: none;
+      border-top-style: dotted;
+      border-color: lightgrey;
+      border-width: 5px;
+      width: 5%;
+  }
+  img {
+    border-radius: 100%;
+     
+  }
